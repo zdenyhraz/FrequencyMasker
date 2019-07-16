@@ -1,2 +1,0 @@
-.NET framework for WinXP(v4.0.3):  https://www.microsoft.com/en-us/download/details.aspx?id=29053
-.NET framework for Win8/10(v4.6.1):  https://dotnet.microsoft.com/download/dotnet-framework/net461
